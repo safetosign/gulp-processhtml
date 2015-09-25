@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "gulp-util": "latest",
-    "htmlprocessor": "https://github.com/ulpian/node-htmlprocessor.git",
+    "htmlprocessor": "ulpian/node-htmlprocessor",
     "through2": "latest"
   },
   "devDependencies": {
